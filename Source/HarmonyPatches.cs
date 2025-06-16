@@ -1,7 +1,6 @@
-﻿using RimWorld;
-using HarmonyLib;
+﻿using HarmonyLib;
+using RimWorld;
 using UnityEngine;
-using Verse;
 
 namespace PaintableSheets
 {
